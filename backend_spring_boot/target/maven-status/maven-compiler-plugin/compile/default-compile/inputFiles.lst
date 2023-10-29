@@ -1,0 +1,17 @@
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\payload\response\MessageResponse.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\security\services\UserDetailsImpl.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\security\services\UserDetailsServiceImpl.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\security\jwt\JwtUtils.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\controller\AuthController.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\security\jwt\AuthEntryPointJwt.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\exception\ResourceNotFoundException.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\model\MiniApp.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\repository\UserRepository.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\payload\request\LoginRequest.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\repository\MiniAppRepositoryOfficers.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\payload\response\JwtResponse.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\controller\MiniAppController.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\repository\MiniAppRepositoryBusiness.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\security\jwt\AuthTokenFilter.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\backend_spring_boot.java
+C:\mini_app\backend_spring_boot\src\main\java\com\example\backend_spring_boot\security\WebSecurityConfig.java
